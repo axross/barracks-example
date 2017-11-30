@@ -1,0 +1,14 @@
+{
+  "name": "barracks-workspace",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kohei <me@axross.io> (https://github.com/axross)",
+  "license": "MIT",
+  "dependencies": {
+    "siema": "git+https://github.com/pawelgrzybek/siema.git#fe22f1b9807342342ede2da09110fb27306671dc"
+  }
+}
